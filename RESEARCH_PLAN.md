@@ -6,8 +6,8 @@ A chronological and thematic list of key papers to guide your journey in the vid
 
 ## 1. Surveys & Overviews
 
-- [Temporal Sentence Grounding in Videos: A Survey and Future Directions (Zhang et al., 2022)](https://arxiv.org/abs/2201.08858)
-- [A Survey on Temporal Sentence Grounding in Videos (Lan et al., 2021)](https://arxiv.org/abs/2106.11664)
+- [Temporal Sentence Grounding in Videos:   irections (Zhang et al., 2022)](https://arxiv.org/pdf/2201.08071)
+- [A Survey on Temporal Sentence Grounding in Videos (Lan et al., 2021)](https://arxiv.org/pdf/2306.07515)
 
 ---
 
